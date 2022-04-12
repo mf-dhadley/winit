@@ -5,7 +5,7 @@ use std::{
 };
 
 use cocoa::{
-    appkit::{self, NSApplicationPresentationOptions, NSView, NSWindow},
+    appkit::{self, NSView, NSWindow},
     base::{id, nil},
     foundation::NSUInteger,
 };
